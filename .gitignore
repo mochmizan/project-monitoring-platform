@@ -49,3 +49,8 @@ env/
 dist/
 build/
 out/
+
+# Agent customization and design specs
+.agents/
+*-design.md
+
